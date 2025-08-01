@@ -1,5 +1,6 @@
 # go-task-manager
 Go Task Manager
+
 This is a simple task manager I built while learning the Go programming language.
 It has a basic GUI where you can add, view, and delete tasks.
 Tasks are saved in a local text file so they are still there when you reopen the app.
